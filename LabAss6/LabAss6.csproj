@@ -75,6 +75,7 @@
     <Content Include="ads\BannerAd1.gif" />
     <Content Include="ads\BannerAd2.gif" />
     <Content Include="ads\BannerAd3.gif" />
+    <Content Include="ads\桌面3.jpg" />
     <Content Include="App_Data\AdListXMLFile.xml" />
     <Content Include="CurrencyConverter.aspx" />
     <Content Include="Global.asax" />

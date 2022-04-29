@@ -6,11 +6,11 @@
     <title></title>
     <style type="text/css">
         .auto-style1 {
-            width: 285px;
+            width: 604px;
             height: 166px;
         }
         .auto-style2 {
-            width: 591px;
+            width: 768px;
             height: 191px;
         }
     </style>

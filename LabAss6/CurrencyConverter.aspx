@@ -16,8 +16,7 @@
             <asp:Button ID="btnOK" runat="server" Text="OK" OnClick="btnOK_Click1" />
         </div>
         
-        <p>
-            
+        <p>           
             <asp:Label ID="lblresult" runat="server"></asp:Label>
         </p>
     </form>
