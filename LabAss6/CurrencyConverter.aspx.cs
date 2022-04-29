@@ -15,7 +15,9 @@ namespace LabAss6
         }   
         protected void btnOK_Click1(object sender, EventArgs e)
         {
-            
+            double n1 = Convert.ToDouble(txtNumber.Text);             
+            string result = String.Format("{0:F}", n1 * 0.1516);
+            lblresult.Text = txtNumber.Text + " Chinese Yuan = " + result.ToString() + " Dollar.";
         }
     }
 }
